@@ -96,5 +96,6 @@ getgenv().Opponent = {
 																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
 																			},
 																		},
+																		
 																		loadstring(game:HttpGet("https://raw.githubusercontent.com/doxbinlol/Opponent/main/Loader.lua"))()
 																		
