@@ -1,9 +1,8 @@
-
 getgenv().Opponent = {
          ['Start'] = {
             Key = "OPPONENT_KEY_HERE",
 		          Intro = true,
-			              ['UnlockFps'] = {
+						['UnlockFps'] = {
 							Enabled = true,
 							FpsCap = 999,
 							},
@@ -49,7 +48,8 @@ getgenv().Opponent = {
 																				Enabled = true,
 																				Neg = 80,
 																				Pos = -40,
-																				Anti_Aim_Viewer = true,
+																				Anti_Aim_Viewer = true, -- v1
+																				AntiAimViewer = false, -- v2
 																		},
 																			['Settings'] = {
 																				AutoLowGFX = false,
@@ -145,4 +145,5 @@ getgenv().Opponent = {
 																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
 																			},
 																		},
-																		loadstring(game:HttpGet("https://github.com"))()
+																		loadstring(game:HttpGet("https://raw.githubusercontent.com/doxbinlol/Opponent/main/Loader.lua"))()
+																		
