@@ -54,10 +54,10 @@ getgenv().Opponent = {
             AntiAimViewer = false -- v2
         },
         ['Settings'] = {
-            AutoLowGFX = false,
-            MuteBoomBox = false,
-            AutoReload = false,
-            AutoPrediction = false
+            AutoLowGFX = true,
+            MuteBoomBox = true,
+            AutoReload = true,
+            AutoPrediction = true
         },
         ['Methods'] = {
             NoDelay = true, -- paid no delay method that sum random was selling
