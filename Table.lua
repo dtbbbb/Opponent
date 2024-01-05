@@ -90,57 +90,7 @@ getgenv().Opponent = {
 																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
 																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
 																			},
-																			['Rifle'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['Shotgun'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['Smg'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
 																			['TacticalShotgun'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['Silencer'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['AK47'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['AR'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['P90'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['AUG'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['SilencerAR'] = {
-																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
-																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
-																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
-																			},
-																			['Glock'] = {
 																				['Close_Fov'] = 15, ['Close_Prediction'] = 0.135, ['Close_HitChance'] = 100,
 																				['Mid_Fov'] = 7, ['Mid_Prediction'] = 0.135, ['Mid_HitChance'] = 100,
 																				['Far_Fov'] = 4, ['Far_Prediction'] = 0.135, ['Far_HitChance'] = 100,
