@@ -35,6 +35,7 @@ getgenv().Opponent = {
 																		 Size = 50,
 																		 Transparency = 0,
 																		 Thickness = 1,
+																		 Sides = 25?
 																		 Color = Color3.fromRGB(255, 255,255),
 																},
 																	    ['Checks'] = {
@@ -64,8 +65,8 @@ getgenv().Opponent = {
 																				DHBypass = true, -- bypasses dh
 																		},
 																				['Animations'] = {
-																					Lay = false, LayKey = Enum.KeyCode.T,
-																			        Greet = false, GreetKey = Enum.KeyCode.G,
+																					Lay = true, LayKey = Enum.KeyCode.T,
+																			        Greet = true, GreetKey = Enum.KeyCode.G,
 																			        Speed = false, SpeedKey = Enum.KeyCode.N,
 																			        Sturdy = false, SturdyKey = Enum.KeyCode.H,
 																			        Griddy = false, GriddyKey = Enum.KeyCode.G,
