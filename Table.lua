@@ -1,8 +1,9 @@
+
 getgenv().Opponent = {
          ['Start'] = {
             Key = "OPPONENT_KEY_HERE",
 		          Intro = true,
-						['UnlockFps'] = {
+			              ['UnlockFps'] = {
 							Enabled = true,
 							FpsCap = 999,
 							},
@@ -29,21 +30,21 @@ getgenv().Opponent = {
 													HitPart_Mode = 'Nearest Point', -- 'Nearest Part', 'Nearest Point'
 													},
 														['Fov'] = {
-															['Silent'] = {
-																Visible = false,
-																Filled = false,
-																Size = 50,
-																Transparency = 0,
-																Thickness = 1,
-																Color = Color3.fromRGB(255, 255,255),
+															           ['Silent'] = {
+																         Visible = false,
+																         Filled = false,
+																		 Size = 50,
+																		 Transparency = 0,
+																		 Thickness = 1,
+																		 Color = Color3.fromRGB(255, 255,255),
 																},
-																	['Checks'] = {
-																		Wall = true,
-																		Knocked = true,
-																		Grabbed = true,
-																		Crew_Check = false,
-																		NoGroundShots = true,
-																	},
+																	    ['Checks'] = {
+																			Wall = true,
+																			Knocked = true,
+																			Grabbed = true,
+																			Crew_Check = false,
+																			NoGroundShots = true,
+															},
 																	      ['Resolver'] = {
 																				Enabled = true,
 																				Neg = 80,
@@ -59,13 +60,15 @@ getgenv().Opponent = {
 																			['Methods'] = {
 																				NoDelay = true, -- paid no delay method that sum random was selling
 																				RoPro = false, -- finds ur region best ping
+																				ADBypass = true, -- bypasses adonis admin
+																				DHBypass = true, -- bypasses dh
 																		},
-																		['Animations'] = {
-																			Lay = false, LayKey = Enum.KeyCode.T,
-																	        Greet = false, GreetKey = Enum.KeyCode.G,
-																	        Speed = false, SpeedKey = Enum.KeyCode.N,
-																	        Sturdy = false, SturdyKey = Enum.KeyCode.H,
-																	        Griddy = false, GriddyKey = Enum.KeyCode.G,
+																				['Animations'] = {
+																					Lay = false, LayKey = Enum.KeyCode.T,
+																			        Greet = false, GreetKey = Enum.KeyCode.G,
+																			        Speed = false, SpeedKey = Enum.KeyCode.N,
+																			        Sturdy = false, SturdyKey = Enum.KeyCode.H,
+																			        Griddy = false, GriddyKey = Enum.KeyCode.G,
 																	},
 																		['GunFov'] = {
 																			Enabled = true,
